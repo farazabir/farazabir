@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **Game Development with C#**
 
+- 👨‍💻 All of my projects are available at [https://farazabirdo.cf/](https://farazabirdo.cf/)
+
+- 📫 How to reach me **farazabir9@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/farazahamedabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farazahamedabir" height="30" width="40" /></a>
