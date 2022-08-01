@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Game Development with C#**
 
-- 👨‍💻 All of my projects are available at [https://farazabirdo.cf/](https://farazabirdo.cf/)
+- 👨‍💻 All of my projects are available at [https://farazabirdo.cf/](https://farazabir.github.io/farazabirdo)
 
 - 📫 How to reach me **farazabir9@gmail.com**
 
