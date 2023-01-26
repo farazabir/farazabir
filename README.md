@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazabir" alt="farazabir" /></a> </p>
 
-- 🔭 I’m currently working on **making games**
+- 🔭 I’m currently working with **flutter**
 
-- 🌱 I’m currently learning **Game Development with C#**
+- 🌱 I’m currently learning **Making apps **
 
 - 👨‍💻 All of my projects are available at [https://farazabirdo.cf/](https://farazabir.github.io/farazabirdo)
 
