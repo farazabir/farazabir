@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Making apps **
 
-- 👨‍💻 All of my projects are available at [https://farazabirdo.cf/](https://farazabir.github.io/farazabirdo)
+- 👨‍💻 All of my projects are available at [https://farazabir.github.io/farazahmedabir//](https://farazabir.github.io/farazahmedabir/)
 
 - 📫 How to reach me **farazabir9@gmail.com**
 
