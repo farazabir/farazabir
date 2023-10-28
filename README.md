@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faraz Ahmed Abir</h1>
-<h3 align="center">A 20 years old Computer Science student who is trying to learn new stuff every day.</h3>
+<h3 align="center">A 22 years old Computer Science student who is trying to learn new stuff every day.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazabir" alt="farazabir" /></a> </p>
 
-- 🔭 I’m currently working with **flutter**
-
-- 🌱 I’m currently learning **Making apps **
-
 - 👨‍💻 All of my projects are available at [https://farazabir.github.io/farazahmedabir//](https://farazabir.github.io/farazahmedabir/)
 
-- 📫 How to reach me **farazabir9@gmail.com**
+- 📫 How to reach me **farazabir50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
