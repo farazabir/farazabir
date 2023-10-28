@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Faraz Ahmed Abir</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazabir" alt="farazabir" /></a> </p>
 
 - 🔭 I’m currently working on **Drag Me**
 
