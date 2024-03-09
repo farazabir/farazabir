@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faraz Ahmed Abir</h1>
 
-- 🔭 I’m currently working on **Drag Me**
+- 🔭 I’m currently working as a full stack developer in **Drag Me**
 
 - 👨‍💻 All of my projects are available at [https://farazabir.github.io/farazahmedabir/](https://farazabir.github.io/farazahmedabir/)
 
