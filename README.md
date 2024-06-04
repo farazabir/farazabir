@@ -9,11 +9,7 @@
 - 📫 How to reach me **farazabir50@gmail.com**
 
 - 📄 Know about my experiences [https://farazabir.github.io/farazahmedabir/](https://farazabir.github.io/farazahmedabir/)
-- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farazabir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farazabir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&exclude_repo=wallwink,Chatty-Hive-Flutter-Firebase,newspaper,meditationFlutter&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
