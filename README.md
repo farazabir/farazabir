@@ -4,11 +4,16 @@
 
 - 👨‍💻 All of my projects are available at [https://farazabir.github.io/farazahmedabir/](https://farazabir.github.io/farazahmedabir/)
 
-- 💬 Can work with **Spring,Node,Flutter,Native Android**
+- 💬 Can work with **Spring,Node,Flutter,Native Android,Applied AI & ML**
 
 - 📫 How to reach me **farazabir50@gmail.com**
 
 - 📄 Know about my experiences [https://farazabir.github.io/farazahmedabir/](https://farazabir.github.io/farazahmedabir/)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=farazabir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=farazabir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farazabir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)Full Stack Developer | AI-Powered Applications
 
 
 <h3 align="left">Connect with me:</h3>
